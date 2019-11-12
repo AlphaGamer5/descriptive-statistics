@@ -29,7 +29,7 @@ First, import List from the typing library followed by holding shift and pressin
 
 We will be using the example data sets under the section "Data" to pass through the functions below.
 
-<img src="images/Screen Shot 2019-11-12 at 6.14.58 PM.png" width="210" height="20">
+<img src="images/Screen Shot 2019-11-12 at 6.14.58 PM.png" width="575" height="190">
 
 ## Links
 * Data Science from Scratch, 2nd Edition: [O'Reilly Media](https://www.oreilly.com/)
