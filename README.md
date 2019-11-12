@@ -29,7 +29,7 @@ First, import List from the typing library followed by holding shift and pressin
 
 We will be using the example data sets under the section "Data" to pass through the functions below.  Again, hold shift and press enter.
 
-<img src="images/Screen Shot 2019-11-12 at 6.14.58 PM.png" width="575" height="190">
+<img src="images/Screen Shot 2019-11-12 at 6.14.58 PM.png" width="575" height="180">
 
 Throughout this tutorial, there will be a section with the name of the descriptive statistic and the corresponding code followed by an output section that runs that stat using a data set.  Be sure to hold shift and press enter on each cell all the way down.
 
