@@ -27,7 +27,11 @@ First, import List from the typing library followed by holding shift and pressin
 
 <img src="images/Screen Shot 2019-11-11 at 12.43.27 PM.png" width="210" height="20">
 
-We will be using the example data sets under the section "Data" to pass through the functions below.
+We will be using the example data sets under the section "Data" to pass through the functions below.  Again, hold shift and press enter.
+
+<img src="images/Screen Shot 2019-11-12 at 6.14.58 PM.png" width="575" height="190">
+
+Throughout this tutorial, there will be a section with the name of the descriptive statistic and the corresponding code followed by an output section that runs that stat using a data set.  Be sure to hold shift and press enter on each cell.
 
 <img src="images/Screen Shot 2019-11-12 at 6.14.58 PM.png" width="575" height="190">
 
