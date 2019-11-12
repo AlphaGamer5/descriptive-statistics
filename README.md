@@ -23,6 +23,9 @@ Descriptive statistics are brief descriptive coefficients that summarize a given
 The foundation of any data science project requires analysis using the descriptive statistics found in this project.  The primary goal here was to code descriptive statistics without using built-in functions to allow users to observe the inner-workings of how some of the Python statistics library is comprised.  For further reading, I suggest getting Data Science from Scratch, 2nd Edition by Joel Grus.  Links are provided below to the book and the Python code from the statistics portion of the book on GitHub.
 
 ## Using Descriptive Statistics
+First, import List from the typing library followed by holding shift and pressing enter.
+
+<img src="images/Screen Shot 2019-11-11 at 12.43.27 PM.png" width="210" height="20">
 
 ## Links
 * Data Science from Scratch, 2nd Edition: [O'Reilly Media](https://www.oreilly.com/)
