@@ -27,6 +27,10 @@ First, import List from the typing library followed by holding shift and pressin
 
 <img src="images/Screen Shot 2019-11-11 at 12.43.27 PM.png" width="210" height="20">
 
+We will be using the example data sets under the section "Data" to pass through the functions below.
+
+<img src="images/Screen Shot 2019-11-11 at 12.43.27 PM.png" width="210" height="20">
+
 ## Links
 * Data Science from Scratch, 2nd Edition: [O'Reilly Media](https://www.oreilly.com/)
 * Data Science from Scratch Statistics Python Script: [GitHub](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/statistics.py)
