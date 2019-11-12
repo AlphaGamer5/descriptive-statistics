@@ -20,7 +20,7 @@ Descriptive statistics are brief descriptive coefficients that summarize a given
 * Describes how scores fall in relation to one another. Relies on standardized scores
 * Use this when you need to compare scores to a normalized score (e.g., a national norm)
 
-The foundation of any data science project requires analysis using the descriptive statistics found in this project.  The primary goal here was to code descriptive statistics from scratch with examples to allow users to observe the inner-workings of how some of the Python statistics library is comprised.  For further reading, I suggest getting Data Science from Scratch, 2nd Edition by Joel Grus.  Links are provided below to the book and the Python code from the statistics portion of the book on GitHub.
+The foundation of any data science project requires analysis using the descriptive statistics found in this project.  The primary goal here was to code descriptive statistics without using built-in functions to allow users to observe the inner-workings of how some of the Python statistics library is comprised.  For further reading, I suggest getting Data Science from Scratch, 2nd Edition by Joel Grus.  Links are provided below to the book and the Python code from the statistics portion of the book on GitHub.
 
 ## Using Descriptive Statistics
 
